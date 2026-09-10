@@ -36,6 +36,20 @@ I’m **Mike**, founder of **MEnterprise Firm Inc** in Warren, Ohio. I turn oper
 
 > MEF also maintains private systems containing proprietary business logic, infrastructure, and client-sensitive architecture. Public repositories are deliberately selected to demonstrate capability without exposing protected assets.
 
+## Live build activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEF-works/MEF-works/output/mef-contribution-stream.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEF-works/MEF-works/output/mef-contribution-stream-light.svg" />
+  <img alt="Animated MEFWorks contribution history" src="https://raw.githubusercontent.com/MEF-works/MEF-works/output/mef-contribution-stream.svg" width="100%" />
+</picture>
+
+<sub>Real contribution history · regenerated daily</sub>
+
+</div>
+
 ## Engineering stack
 
 <div align="center">
