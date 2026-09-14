@@ -24,8 +24,7 @@ My strongest areas are **developer infrastructure, AI-assisted systems, platform
 | **Repo Recon** | CLI that inspects a running app, discovers routes, captures screenshots and runtime behavior, and produces machine-readable context for developers and AI workflows | [Source](https://github.com/MEF-works/repo-recon) · [npm](https://www.npmjs.com/package/repo-recon) |
 | **PluginOps** | WordPress/WooCommerce plugin operations control plane with immutable artifacts, scanning, audited workspaces, AI work orders, CLI workflows, and release/export gates | [Source](https://github.com/MEF-works/pluginops-pro) |
 | **SovSats** | Typed BTCPay checkout toolkit with framework-agnostic server helpers, React UI, polling, signed webhooks, and settlement-safe fulfillment semantics | [Source](https://github.com/MEF-works/sovsats) · [npm](https://www.npmjs.com/package/sovsats) |
-| **Statement Analyzer** | Structured document and financial-data analysis workflow focused on turning messy statement data into reviewable outputs | [Source](https://github.com/MEF-works/statement-analyzer) |
-| **Visibility Machine** | AI-assisted operating system for turning build activity into structured content, proof, metrics, and follow-up workflows | [Source](https://github.com/MEF-works/visibility-machine) |
+| **Statement Analyzer** | Provider-abstracted document analysis with manual/local/AI parsing paths, deterministic proposal math, review locks, tests, and explicit handling of uncertain inputs | [Source](https://github.com/MEF-works/statement-analyzer) |
 
 ## Open source contributions
 
