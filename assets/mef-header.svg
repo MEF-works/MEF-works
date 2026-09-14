@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">MEFWorks Elite Systems Engineering</title>
-  <desc id="desc">A dark command-grid banner with animated data paths connecting systems, payments, automation, and infrastructure.</desc>
+  <title id="title">Mike · Systems and Product Engineer</title>
+  <desc id="desc">A dark command-grid banner with animated data paths representing developer infrastructure, AI systems, platform engineering, and integrations.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#05090f"/>
@@ -48,17 +48,17 @@
   </g>
 
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="64" y="82" fill="#39d353" font-size="15" font-weight="700" letter-spacing="4">MEFWORKS™</text>
-    <text x="60" y="148" fill="#f0f6fc" font-size="50" font-weight="750">ELITE SYSTEMS</text>
+    <text x="64" y="82" fill="#39d353" font-size="15" font-weight="700" letter-spacing="4">MEF-WORKS</text>
+    <text x="60" y="148" fill="#f0f6fc" font-size="46" font-weight="750">SYSTEMS / PRODUCT</text>
     <text x="60" y="202" fill="#f0f6fc" font-size="50" font-weight="750">ENGINEERING</text>
-    <text x="64" y="244" fill="#9fb0c3" font-size="18" letter-spacing=".8">Products · Operations · Payments · Automation</text>
-    <text x="64" y="280" fill="#58a6ff" font-size="14" font-weight="600">I DON'T FOLLOW PATHS. I BUILD ROADS.</text>
+    <text x="64" y="244" fill="#9fb0c3" font-size="18" letter-spacing=".5">Developer Infrastructure · AI Systems · Platform · Integrations</text>
+    <text x="64" y="280" fill="#58a6ff" font-size="14" font-weight="600">ARCHITECTURE → IMPLEMENTATION → DEPLOYMENT</text>
 
     <g fill="#c9d1d9" font-size="13" font-weight="600">
-      <text x="940" y="66">SYSTEMS</text>
-      <text x="1010" y="126">PAYMENTS</text>
-      <text x="908" y="244">AUTOMATION</text>
-      <text x="1010" y="278">INFRASTRUCTURE</text>
+      <text x="940" y="66">TOOLING</text>
+      <text x="1010" y="126">APIs</text>
+      <text x="908" y="244">OPERATIONS</text>
+      <text x="1010" y="278">PLATFORM</text>
     </g>
   </g>
 
